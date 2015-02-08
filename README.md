@@ -40,3 +40,4 @@ usable for cron jobs)
 ## To do:
 
 - Add a connector for Ice Oasis' Google Calendar
+- Add functionality for Toyota Sports Center leagues
